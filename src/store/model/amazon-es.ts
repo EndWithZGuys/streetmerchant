@@ -24,6 +24,30 @@ export const AmazonEs: Store = {
   },
   links: [
     {
+      brand: 'pny',
+      cartUrl:
+        'https://www.amazon.es/gp/aws/cart/add.html?ASIN.1=B08WRQ3JR1&Quantity.1=1',
+      model: 'test:model',
+      series: '3060ti',
+      url: 'https://www.amazon.es/dp/B08WRQ3JR1',
+    },
+    {
+      brand: 'pny',
+      cartUrl:
+        'https://www.amazon.es/gp/aws/cart/add.html?ASIN.1=B08WS1R9CM&Quantity.1=1',
+      model: 'test:model',
+      series: '3060ti',
+      url: 'https://www.amazon.es/dp/B08WS1R9CM',
+    },
+    {
+      brand: 'pny',
+      cartUrl:
+        'https://www.amazon.es/gp/aws/cart/add.html?ASIN.1=B08X12YK8G&Quantity.1=1',
+      model: 'test:model',
+      series: '3060ti',
+      url: 'https://www.amazon.es/dp/B08X12YK8G',
+    },
+    {
       brand: 'test:brand',
       cartUrl:
         'https://www.amazon.es/gp/aws/cart/add.html?ASIN.1=B07PW9VBK5&Quantity.1=1',
@@ -94,6 +118,22 @@ export const AmazonEs: Store = {
       model: 'eagle oc',
       series: '3080',
       url: 'https://www.amazon.es/dp/B08HHZVZ3N',
+    },
+    {
+      brand: 'asus',
+      cartUrl:
+        'https://www.amazon.es/gp/aws/cart/add.html?ASIN.1=B08VH8H82H&Quantity.1=1',
+      model: 'test:model',
+      series: '3060ti',
+      url: 'https://www.amazon.es/dp/B08VH8H82H',
+    },
+    {
+      brand: 'asus',
+      cartUrl:
+        'https://www.amazon.es/gp/aws/cart/add.html?ASIN.1=B08CV138PL&Quantity.1=1',
+      model: 'test:model',
+      series: '3060ti',
+      url: 'https://www.amazon.es/dp/B08CV138PL',
     },
     {
       brand: 'asus',
