@@ -195,7 +195,8 @@ export const Print = {
   productInStock(link: Link): string {
     let productString = `Product Page: ${link.url}`;
     if (link.cartUrl) productString += `\nAdd To Cart Link: ${link.cartUrl}`;
-
+    if (link.price) productString += `\nPrice: ${(link.price/100).toFixed(2)} €`;
+    
     return productString;
   },
   rateLimit(link: Link, store: Store, color?: boolean): string {
