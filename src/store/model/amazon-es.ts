@@ -48,14 +48,6 @@ export const AmazonEs: Store = {
       url: 'https://www.amazon.es/dp/B08X12YK8G',
     },
     {
-      brand: 'pny',
-      cartUrl:
-        'https://www.amazon.es/gp/aws/cart/add.html?ASIN.1=B08X12YK8G&Quantity.1=1',
-      model: 'test:model',
-      series: '3070',
-      url: 'https://www.amazon.es/dp/B08HBJB7YD',
-    },	
-    {
       brand: 'test:brand',
       cartUrl:
         'https://www.amazon.es/gp/aws/cart/add.html?ASIN.1=B07PW9VBK5&Quantity.1=1',
